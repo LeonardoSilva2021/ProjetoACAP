@@ -1,0 +1,2 @@
+C:\Users\Leonardo\Desktop\TCC\APP\APP\obj\Debug\Fakes\dsl2005\o\f.csprojAssemblyReference.cache
+C:\Users\Leonardo\Desktop\TCC\APP\APP\obj\Debug\Fakes\dsl2005\o\f.csproj.CoreCompileInputs.cache
